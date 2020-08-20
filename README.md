@@ -1,3 +1,2 @@
-# Sam Butterfield Project Portfolio
-## Personal Profile
-I graduated Newcastle University with a First Class degree in Computer Science
+## Education
+I recently graduated Newcastle University with a First Class Honours Degree in Computer Science, with one year Industrial Placement working for Toyota GB in there Systems Department. The first two years of the degree covered core computer science topics such as Programming (Java/Python), System Architechture, Maths for Computing, Web Development (Basics), Operating Systems, Databases and Team Project where we built an Android App. The third year was comprised of optional moduels where I elected to study Distributed Systems, Web Technologies (RESTful API), Systems and Network Security (Theory), Serverside Management (Apache/AWS), Bilogically Inspired Computing (Machine/Deep Learning), Bioinformatics, Human Computer Interaction. For my Dissertation theme I decided to choose Data Science, where I got work on a live research project using 500,000 peoples electronic health records.
