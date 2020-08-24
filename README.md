@@ -11,3 +11,8 @@ The final year comprised of optional modules where I elected to study Distribute
 For my Dissertation theme, I decided to choose Data Science, where I got work on a live research project using 500,000 peoples electronic health records.
 
 
+## Work Experience
+**Toyota GB** - As a student at Toyota a lot of the year was dedicated to learning The Toyota Way and how the company operates, this was a fantastic parallel to my Computer Science degree as it taught me a lot about how corporations operate and function in general as well as develop my soft skills in a way working at university cannot do. The role was primarily Project-Based where I worked on everything from designing SharePoint sites to meet business needs, to coordinating SOx (Sarbanes Oxley) Audits,  which required are a large amount of versatility. But the role had one BAU task which was running a Business Intelligence report for the business on part-exchange data and handling any specific questions/queries the business recipients may have.
+
+
+**Data Science Internship at Newcastle University** - My Dissertation focussed on Big Data Analysis of the datasets provided by the UKBiobank and the Engineering of new a Feature that contributed to a research paper, this internship primarily focussed on continuing this work but also moved onto predictive analysis and machine learning. 
