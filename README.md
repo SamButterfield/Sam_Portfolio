@@ -19,5 +19,5 @@ For my Dissertation theme, I decided to choose Data Science, where I got work on
 
 
 ## Projects
-[# test](/Sam_Portfolio/images/)
+# [Titanic (Classification)](/Sam_Portfolio/projects/titanic/)
 # [test](/Sam_Portfolio/images/)
