@@ -8,14 +8,14 @@
 **Project Outcome** - 6 Kaggle scores for the Titanic Competition that did not use the feature 'Survived' from the training set to see if individuals in the test dataset had family members that survived in the training dataset.
 
 Full Set of Features:
-Random Forest - 0.76794
-Logistic Regression - 0.76794
-XGBoost - 0.75119
+- Random Forest - 0.76794
+- Logistic Regression - 0.76794
+- XGBoost - 0.75119
 
 Sub-Set of Features:
-Random Forest - 0.73444
-Logistic Regression - 0.77511
-XGBoost - 0.74641
+- Random Forest - 0.73444
+- Logistic Regression - 0.77511
+- XGBoost - 0.74641
 
 
 [Click Here](https://github.com/SamButterfield/TitatanicDS) to view the full repo on Github.
