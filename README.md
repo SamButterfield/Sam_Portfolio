@@ -1,4 +1,3 @@
-<title>This is a test</title>
 ## Education
 I graduated from Newcastle University with a First Class Honours Degree in Computer Science with a year-long Industrial Placement working for Toyota GB in there Systems Department in Summer of 2020.
 
