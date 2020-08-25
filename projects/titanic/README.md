@@ -22,5 +22,5 @@ Sub-Set of Features:
 [Click Here](https://github.com/SamButterfield/TitatanicDS) to view the full repo on Github.
 
 
-### [Return to the main portfolio page](/Sam_Portfolio/)
+### [Return to the main portfolio page](/portfolio/)
 
