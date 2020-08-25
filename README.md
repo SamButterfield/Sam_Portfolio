@@ -1,4 +1,5 @@
 <title>this overides 'Education' being in title</title>
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 
 ## Education
 I graduated from Newcastle University with a First Class Honours Degree in Computer Science with a year-long Industrial Placement working for Toyota GB in there Systems Department in Summer of 2020.
