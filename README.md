@@ -1,6 +1,6 @@
 <head>
 <title> this overides 'Education' being in title </title>
-<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/images/favicon.ico" >
 </head>
 
 ## Education
