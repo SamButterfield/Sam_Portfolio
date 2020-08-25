@@ -1,3 +1,4 @@
+
 ## Titanic
 **Project Aim** - To undertake the Kaggle Titanic challenge to get a starting experience of a start-to-finish data project with cleaning, feature engineering and predictive analysis. Additionally, I will use JupyterNotebook to gain experience of using local .ipynb files and working with Github.
 
@@ -20,4 +21,6 @@ Sub-Set of Features:
 
 [Click Here](https://github.com/SamButterfield/TitatanicDS) to view the full repo on Github.
 
+
+### [Return to the main portfolio page](/Sam_Portfolio/)
 
