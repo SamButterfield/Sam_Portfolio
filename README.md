@@ -1,5 +1,5 @@
 <head>
-<title>this overides 'Education' being in title</title>
+<title> this overides 'Education' being in title </title>
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 </head>
 
