@@ -18,4 +18,6 @@ For my Dissertation theme, I decided to choose Data Science, where I got work on
 **Data Science Internship at Newcastle University** - My Dissertation focussed on Big Data Analysis of the datasets provided by the UKBiobank and the Engineering of new a Feature that contributed to a research paper, this internship primarily focussed on continuing this work but also moved onto predictive analysis and machine learning. 
 
 
-[test](/Sam_Portfolio/images/)
+## Projects
+[# test](/Sam_Portfolio/images/)
+# [test](/Sam_Portfolio/images/)
