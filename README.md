@@ -23,4 +23,4 @@ For my Dissertation theme, I decided to choose Data Science, where I got work on
 
 ## Projects
 #### [Titanic (Classification)](/portfolio/projects/titanic/)
-
+#### [Yin Yang Neural Network](/portfolio/projects/yinyang/)
