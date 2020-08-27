@@ -7,3 +7,5 @@
 
 
 **Project Outcome** - I achieved a 98% accuracy on an independent test set and it was a good introductory project into NN's and the whole dicipline off Deep Learning.
+
+![NN Result Output]: (https://github.com/SamButterfield/portfolio/blob/master/images/yinyang.png?raw=true)
