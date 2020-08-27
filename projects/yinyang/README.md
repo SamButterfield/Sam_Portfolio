@@ -7,4 +7,4 @@
 
 
 **Project Outcome** - I achieved a 98% accuracy on an independent test set and it was a good introductory project into NN's and the whole dicipline off Deep Learning.
-<div style="text-align:center"><img src="/portfolio/images/yinyang.png" alt=""/></div>
+<div style="text-align:center"><img src="/portfolio/images/yinyang.png" alt="yinyang nn output"/></div>
