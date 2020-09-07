@@ -11,5 +11,5 @@ collected, and since then there have been additional datasets gathered that cont
 
 
 ## Nature of the dissertaion
-Dissertations at Newcasle University are not done in the traditional manner, they are a large project then the final document is closer to a write-up than a thesis. I chose Data Science, which was not a topic taught at Newcastle, so a lot of the project was to understand the field as well as the tools and technologies needed to complete the project. [Click Here](https://github.com/SamButterfield/DissertationCodeDump/sb_dissertation_FINAL_V3.pdf) to see my full dissertation document that was marked at 80/100 (upper first class).
+Dissertations at Newcasle University are not done in the traditional manner, they are a large project then the final document is closer to a write-up than a thesis. I chose Data Science, which was not a topic taught at Newcastle, so a lot of the project was to understand the field as well as the tools and technologies needed to complete the project. [Click Here](https://github.com/SamButterfield/DissertationCodeDump/blob/master/sb_dissertation_FINAL_V3.pdf) to see my full dissertation document that was marked at 80/100 (upper first class).
 
