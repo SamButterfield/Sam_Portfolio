@@ -1,5 +1,5 @@
 # Dissertation and Internship on the UKBiobank
-Due to the nature of the dissertation and strict licensing where a lot of code/data were stored on Cluster Machines, I am not able to provide a full project with code and outputs. Instead, I will showcase what I can and contextualise it.
+Due to the nature of the dissertation and strict licensing where a lot of code/data were stored on Cluster Machines, I am not able to provide a full project with code and outputs. Instead, I will showcase what I can with context.
 
 
 ## Who are the UKBiobank
@@ -15,8 +15,10 @@ I produced a script that can be run on the Universities High-Performance Cluster
 
 [Extract Population](https://github.com/SamButterfield/DissertationCodeDump/blob/master/actScore/1_population_extraction.py) - The population was a subset of people who exist in multiple datasets. I also did some necessary cleaning as the datasets I was working with were raw.
 
-[Extract Chapter](https://github.com/SamButterfield/DissertationCodeDump/blob/master/actScore/2_extract_chapters.py) - To assign the Activity Impact Scores I had to reduce the number of unique codes the label, I did this by exploiting the READ code systems which is used to describe health events. I migrated all versions of the read code to a version 2 which has a hierarchical relationship represented within the code itself, this means I could then truncate codes that were too detailed for this purpose (I.E a 5-byte code would differentiate which leg and bone are broken, a 4-byte code would define which leg is broken and a 3-byte code would just define broken leg). This reduced the number of different unique events from 30K+ to 215. I also extracted the events for when participants wore a high-resolution accelerometer, which is different for everyone in the population.
+[Extract Chapter](https://github.com/SamButterfield/DissertationCodeDump/blob/master/actScore/2_extract_chapters.py) - To assign the Activity Impact Scores I had to reduce the number of unique codes to label, I did this by exploiting the READ code systems which is used to describe health events. I migrated all versions of the read code to a single version which has a hierarchical relationship represented within the code itself, this means I could then truncate codes that were too detailed  (I.E a 5-byte code would differentiate which leg and bone are broken, a 4-byte code would define which leg is broken and a 3-byte code would just define broken leg). This reduced the number of different unique codes from 30K+ to 215. In this step I also extracted the events for when participants wore a high-resolution accelerometer, which is different for everyone in the population.
 
-[Assign Activity Impact Scores](https://github.com/SamButterfield/DissertationCodeDump/blob/master/actScore/3_activity_impact_score.py) - this pulls everything together and produces a unique list of individuals with a score.
+[Assign Activity Impact Scores](https://github.com/SamButterfield/DissertationCodeDump/blob/master/actScore/3_activity_impact_score.py) - This pulls everything together and produces a unique list of individuals with there Activity Impact Score.
+
+This was used as a population inclusion/exclusion criteria for a research paper looking at predicting type-2-diabetes with accelerometry data.
 
 ### [Return to the main portfolio page](/portfolio/)
